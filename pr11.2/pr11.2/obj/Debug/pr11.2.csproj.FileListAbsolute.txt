@@ -1,0 +1,9 @@
+H:\VS\pr11.2\pr11.2\bin\Debug\pr11.2.exe.config
+H:\VS\pr11.2\pr11.2\bin\Debug\pr11.2.exe
+H:\VS\pr11.2\pr11.2\bin\Debug\pr11.2.pdb
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11.2.csprojResolveAssemblyReference.cache
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11._2.Form1.resources
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11._2.Properties.Resources.resources
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11.2.csproj.GenerateResource.Cache
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11.2.exe
+H:\VS\pr11.2\pr11.2\obj\Debug\pr11.2.pdb

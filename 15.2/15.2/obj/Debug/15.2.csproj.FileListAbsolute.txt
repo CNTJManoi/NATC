@@ -1,0 +1,5 @@
+H:\VS\15.2\15.2\bin\Debug\15.2.exe.config
+H:\VS\15.2\15.2\bin\Debug\15.2.exe
+H:\VS\15.2\15.2\bin\Debug\15.2.pdb
+H:\VS\15.2\15.2\obj\Debug\15.2.exe
+H:\VS\15.2\15.2\obj\Debug\15.2.pdb

@@ -1,0 +1,9 @@
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\bin\Debug\pr_18._3._1.exe.config
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\bin\Debug\pr_18._3._1.exe
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\bin\Debug\pr_18._3._1.pdb
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr 18 . 3.1.csprojResolveAssemblyReference.cache
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr_18._3._1.Form1.resources
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr_18._3._1.Properties.Resources.resources
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr 18 . 3.1.csproj.GenerateResource.Cache
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr_18._3._1.exe
+H:\VS\pr 18 . 3.1\pr 18 . 3.1\obj\Debug\pr_18._3._1.pdb

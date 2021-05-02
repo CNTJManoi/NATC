@@ -1,0 +1,6 @@
+H:\VS\13.2\13.2\bin\Debug\13.2.exe.config
+H:\VS\13.2\13.2\bin\Debug\13.2.exe
+H:\VS\13.2\13.2\bin\Debug\13.2.pdb
+H:\VS\13.2\13.2\obj\Debug\13.2.csprojResolveAssemblyReference.cache
+H:\VS\13.2\13.2\obj\Debug\13.2.exe
+H:\VS\13.2\13.2\obj\Debug\13.2.pdb

@@ -1,0 +1,9 @@
+H:\VS\16(1)\16(1)\bin\Debug\16(1).exe.config
+H:\VS\16(1)\16(1)\bin\Debug\16(1).exe
+H:\VS\16(1)\16(1)\bin\Debug\16(1).pdb
+H:\VS\16(1)\16(1)\obj\Debug\16(1).csprojResolveAssemblyReference.cache
+H:\VS\16(1)\16(1)\obj\Debug\_16_1_.Form1.resources
+H:\VS\16(1)\16(1)\obj\Debug\_16_1_.Properties.Resources.resources
+H:\VS\16(1)\16(1)\obj\Debug\16(1).csproj.GenerateResource.Cache
+H:\VS\16(1)\16(1)\obj\Debug\16(1).exe
+H:\VS\16(1)\16(1)\obj\Debug\16(1).pdb

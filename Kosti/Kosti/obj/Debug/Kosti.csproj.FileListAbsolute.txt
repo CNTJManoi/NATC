@@ -1,0 +1,9 @@
+H:\VS\Kosti\Kosti\bin\Debug\Kosti.exe.config
+H:\VS\Kosti\Kosti\bin\Debug\Kosti.exe
+H:\VS\Kosti\Kosti\bin\Debug\Kosti.pdb
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.csprojResolveAssemblyReference.cache
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.Form1.resources
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.Properties.Resources.resources
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.csproj.GenerateResource.Cache
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.exe
+H:\VS\Kosti\Kosti\obj\Debug\Kosti.pdb

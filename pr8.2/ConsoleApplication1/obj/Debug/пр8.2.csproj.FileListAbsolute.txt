@@ -1,0 +1,8 @@
+H:\VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\VS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\VS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\VS\pr8.2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\VS\pr8.2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\VS\pr8.2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

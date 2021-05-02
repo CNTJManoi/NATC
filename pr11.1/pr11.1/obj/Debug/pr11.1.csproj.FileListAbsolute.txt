@@ -1,0 +1,6 @@
+H:\VS\pr11.1\pr11.1\bin\Debug\pr11.1.exe.config
+H:\VS\pr11.1\pr11.1\bin\Debug\pr11.1.exe
+H:\VS\pr11.1\pr11.1\bin\Debug\pr11.1.pdb
+H:\VS\pr11.1\pr11.1\obj\Debug\pr11.1.csprojResolveAssemblyReference.cache
+H:\VS\pr11.1\pr11.1\obj\Debug\pr11.1.exe
+H:\VS\pr11.1\pr11.1\obj\Debug\pr11.1.pdb

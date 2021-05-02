@@ -1,0 +1,9 @@
+H:\VS\Random_Example\Random_Example\bin\Debug\Random_Example.exe.config
+H:\VS\Random_Example\Random_Example\bin\Debug\Random_Example.exe
+H:\VS\Random_Example\Random_Example\bin\Debug\Random_Example.pdb
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.csprojResolveAssemblyReference.cache
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.Form1.resources
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.Properties.Resources.resources
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.csproj.GenerateResource.Cache
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.exe
+H:\VS\Random_Example\Random_Example\obj\Debug\Random_Example.pdb

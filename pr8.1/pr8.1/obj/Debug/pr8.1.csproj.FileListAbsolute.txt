@@ -1,0 +1,5 @@
+H:\VS\pr8.1\pr8.1\bin\Debug\pr8.1.exe.config
+H:\VS\pr8.1\pr8.1\bin\Debug\pr8.1.exe
+H:\VS\pr8.1\pr8.1\bin\Debug\pr8.1.pdb
+H:\VS\pr8.1\pr8.1\obj\Debug\pr8.1.exe
+H:\VS\pr8.1\pr8.1\obj\Debug\pr8.1.pdb

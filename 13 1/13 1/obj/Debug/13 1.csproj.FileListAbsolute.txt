@@ -1,0 +1,9 @@
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\bin\Debug\13 1.exe.config
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\bin\Debug\13 1.exe
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\bin\Debug\13 1.pdb
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\obj\Debug\13 1.csprojResolveAssemblyReference.cache
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\obj\Debug\13 1.exe
+c:\users\ks-56-korovchenkoaiu\documents\visual studio 2015\Projects\13 1\13 1\obj\Debug\13 1.pdb
+H:\VS\13 1\13 1\bin\Debug\13 1.exe.config
+H:\VS\13 1\13 1\obj\Debug\13 1.exe
+H:\VS\13 1\13 1\obj\Debug\13 1.pdb

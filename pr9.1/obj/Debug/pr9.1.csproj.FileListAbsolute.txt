@@ -1,0 +1,8 @@
+C:\Users\ks-56-KorovchenkoAIU\Documents\vs\pr9.1\pr9.1\bin\Debug\pr9.1.exe.config
+C:\Users\ks-56-KorovchenkoAIU\Documents\vs\pr9.1\pr9.1\bin\Debug\pr9.1.exe
+C:\Users\ks-56-KorovchenkoAIU\Documents\vs\pr9.1\pr9.1\bin\Debug\pr9.1.pdb
+C:\Users\ks-56-KorovchenkoAIU\Documents\vs\pr9.1\pr9.1\obj\Debug\pr9.1.exe
+C:\Users\ks-56-KorovchenkoAIU\Documents\vs\pr9.1\pr9.1\obj\Debug\pr9.1.pdb
+H:\VS\pr9.1\bin\Debug\pr9.1.exe.config
+H:\VS\pr9.1\obj\Debug\pr9.1.exe
+H:\VS\pr9.1\obj\Debug\pr9.1.pdb
